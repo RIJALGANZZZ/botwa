@@ -1,4 +1,4 @@
 global.rijalganzz = {
-  id: '120363401569123262@newsletter',
+  password: 'Rijalganzz Developer',
   nomer: '62882009507703',
 };
