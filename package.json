@@ -1,14 +1,18 @@
 {
-  "name": "rijalganzz database",
+  "name": "@Rijalganzzxx-connect",
   "version": "1.0.0",
-  "description": "Rijalganzz ganteng",
-  "main": "index.js",
+  "description": "Gatau",
   "type": "module",
+  "main": "index.js",
+  "exports": {
+    ".": "./index.js"
+  },
   "keywords": [
-    "rijalganzz",
     "whatsapp",
-    "bot"
+    "baileys",
+    "rijalganzz",
+    "auth"
   ],
-  "author": "Rijalganzz",
+  "author": "Rijalganzzxx",
   "license": "MIT"
 }
